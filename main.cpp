@@ -1,3 +1,7 @@
+//3D Tank Game
+//Author: Harshil Shah && Shashank Gupta
+// Indian Institute of Technology Indore
+
 #include <cstdlib>
 #include<time.h>
 #include <cmath>
