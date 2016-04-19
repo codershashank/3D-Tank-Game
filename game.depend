@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1460898298 source:c:\users\shashank gupta\desktop\fab\game\main.cpp
+	<cstdlib>
+	<time.h>
+	<cmath>
+	<cstdio>
+	<GL/glut.h>
+
+1453065077 c:\users\shashank gupta\desktop\glutmingw32\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
